@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Chocolate Chip",
+    "count": 248,
+    "price": "$0.39",
+    "priceDozen": "$4.50"
+  },
+  {
+    "name": "Sugar",
+    "count": 182,
+    "price": "$0.30",
+    "priceDozen": "$3.35"
+  },
+  {
+    "name": "Oatmeal",
+    "count": 137,
+    "price": "$0.42",
+    "priceDozen": "$4.80"
+  },
+  {
+    "name": "Peanut Butter",
+    "count": 186,
+    "price": "$0.47",
+    "priceDozen": "$5.25"
+  },
+  {
+    "name": "Shortbread",
+    "count": 93,
+    "price": "$0.35",
+    "priceDozen": "$4.00"
+  }
+]
